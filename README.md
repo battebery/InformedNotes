@@ -1,2 +1,0 @@
-# InformedNotes
-Created with CodeSandbox
